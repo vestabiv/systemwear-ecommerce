@@ -55,9 +55,65 @@ systemwear-ecommerce/
 
 ## Screenshots
 
-Screenshots can be added to the `screenshots/` directory after the project is running locally.
+## Screenshots
 
-<!-- Example: ![Storefront](screenshots/HomePage.png) -->
+### User Interface
+
+#### Main Page
+![Main Page](screenshots/MainScreen.png)
+
+#### Product Filtering by Categories
+![Product Filtering by Categories](screenshots/ProductFilteringCategories.png)
+
+#### Product Filtering by Attributes
+![Product Filtering by Attributes](screenshots/ProductFilteringAttributes.png)
+
+#### Product Details
+![Product Details](screenshots/ProductVisualisation.png)
+
+### Authentication
+
+#### Registration
+![Registration](screenshots/Registration.png)
+
+#### Login
+![Login](screenshots/Login.png)
+
+### Shopping Flow
+
+#### Shopping Cart
+![Shopping Cart](screenshots/ProductBasket.png)
+
+#### Order Summary
+![Order Summary](screenshots/OrderProceeded.png)
+
+#### Order Completion
+![Order Completion](screenshots/OrderComplete.png)
+
+### Admin Panel
+
+#### Admin Dashboard
+![Admin Dashboard](screenshots/AdminPanel.png)
+
+#### Product Management
+![Product Management](screenshots/ProductManagement.png)
+
+#### Category Management
+![Category Management](screenshots/CategoryManagement.png)
+
+#### Order Management
+![Order Management](screenshots/OrderManagement.png)
+
+### Project Structure and Database
+
+#### System Structure
+![System Structure](screenshots/SystemStructure.png)
+
+#### Database Relational Schema
+![Database Relational Schema](screenshots/DatabaseRelationalSchema.png)
+
+#### Database Structure in phpMyAdmin
+![Database Structure in phpMyAdmin](screenshots/DatabaseStructurePhpmyadmin.png)
 
 ## Database
 
